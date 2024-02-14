@@ -51,8 +51,6 @@ h2 {
 
 h1 {
     font-size: 18px;
-    font-size: 2.8em;
-    font-size: 3.5vw;
     color: rgba(0, 0, 0, 0.5);
     top: 14%;
 }
@@ -65,7 +63,7 @@ h2 {
 }
 
 h1 span {
-    font-size: 10.6vw;
+    font-size: 50px;
     line-height: 1em;
     z-index: 100;
     text-shadow: 0.04em 0.04em 0 #fcfade;
@@ -103,15 +101,6 @@ span.three:after {
     content: "valentine?";
 }
 
-@media screen and (min-width: 880px) {
-    h1 {
-        font-size: 2.5vw;
-    }
-
-    h1 span {
-        font-size: 6vw;
-    }
-}
 
 
 
